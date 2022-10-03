@@ -1,6 +1,6 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V5⚜️<br></h1>
+<h1 align="center">⚜️PRIYANGA BIT V5⚜️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+<img src="https://telegra.ph/file/71a7a71624803bde1fd32.jpg"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) border="0"></a> 
 
